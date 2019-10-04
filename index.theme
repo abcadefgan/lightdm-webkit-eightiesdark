@@ -1,0 +1,6 @@
+[theme]
+name=lightdm-webkit-googlemod
+description=Modified version of the Google/ChromeOS style greeter theme
+engine=lightdm-webkit-greeter
+url=index.html
+session=i3
