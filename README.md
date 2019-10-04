@@ -2,6 +2,8 @@
 
 This is a theme for LightDM Webkit (`lightdm-webkit-greeter`).
 
+![My image](/assets/ui/screenshot.png)
+
 It's a modified version of Max Glenister's google theme.
 Colors based on the eighties.dark theme from terminal.sexy.
 
